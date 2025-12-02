@@ -6,6 +6,7 @@ body{
 }
 
 header{
-    background-color: #ccc; /*Cinza sem graça*/
+    background-color: #007bff; /*Azul profissional*/
+    color:white;
     padding:20px;
 }
