@@ -1,0 +1,11 @@
+body{
+    font-family: sans-serif;
+    text-align: center;
+    background-color: #f0f0f0;
+    color: #333;
+}
+
+header{
+    background-color: #ccc; /*Cinza sem graça*/
+    padding:20px;
+}
